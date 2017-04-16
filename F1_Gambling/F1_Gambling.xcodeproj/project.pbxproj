@@ -526,6 +526,7 @@
 				F9EC591C1EA2986800E85E52 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		F9EC591D1EA2986800E85E52 /* Build configuration list for PBXNativeTarget "F1_GamblingTests" */ = {
 			isa = XCConfigurationList;
@@ -534,6 +535,7 @@
 				F9EC591F1EA2986800E85E52 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		F9EC59201EA2986800E85E52 /* Build configuration list for PBXNativeTarget "F1_GamblingUITests" */ = {
 			isa = XCConfigurationList;
@@ -542,6 +544,7 @@
 				F9EC59221EA2986800E85E52 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
